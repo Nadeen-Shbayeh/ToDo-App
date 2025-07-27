@@ -28,6 +28,8 @@ src/
 ├── App.css
 └── index.js
 
+```
+
 ## 📦 Getting Started 📦
 ### Step 1: Clone the repository
 git clone https://github.com/Nadeen-Shbayeh/ToDo-App.git
