@@ -32,12 +32,18 @@ src/
 
 ## 📦 Getting Started 📦
 ### Step 1: Clone the repository
+```bash
 git clone https://github.com/Nadeen-Shbayeh/ToDo-App.git
 cd ToDo-App
+```
 ### Step 2: Install dependencies
+```bash
 npm install
+```
 ### Step 3: Start the app
+```bash
 npm start
+```
 ### Step 4: Open the app in your browser
 http://localhost:3000
 
