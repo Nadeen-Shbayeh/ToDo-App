@@ -30,6 +30,26 @@ src/
 
 ```
 
+## 💡 What I Changed or Added
+- **Components**: I created separate components for the Todo App, Input Form, Todo List, and
+Todo Item. This makes the code more organized and easier to maintain.
+- **State Management**: I used the **useState** hook to manage the state of the application.
+- **Event Handling**: I added event handlers for adding, deleting, and marking tasks as complete.
+- **Storage**: I used **localStorage** to save the tasks even after the user closes the browser
+- **CSS**: I added custom CSS to make the UI more modern and responsive.
+- **React Hooks**: I used the **useState** and **useEffect** hooks to manage the
+state and side effects of the application.
+
+.
+
+## 🧠 Challenges I Faced
+- **State Management**: Managing the state of the application was a challenge, especially when it came to
+deleting tasks and updating the list.
+- **Storage**: Setting up localStorage to sync with React state correctly.
+- **Style**: Debugging why styles weren’t loading (missing import in App.js).
+
+
+
 ## 📦 Getting Started 📦
 ### Step 1: Clone the repository
 ```bash
